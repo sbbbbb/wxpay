@@ -21,6 +21,6 @@
 ##### Dependency Packages
       1. Monolog
 #### Composer 
-     composer require inesadt/wechat_pay
+     composer require xcrms/wxpay
     
 
